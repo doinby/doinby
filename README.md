@@ -20,5 +20,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![Profile views](https://gpvc.arturio.dev/doinby)  
 
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="doinby" src="https://my-github-stats-vercel-doinby.vercel.app/api?username=doinby&show_icons=true&hide_border=true"/>
+<!--   <summary>:zap: Github Stats</summary>
+  <img align="left" alt="doinby" src="https://my-github-stats-vercel-doinby.vercel.app/api?username=doinby&show_icons=true&hide_border=true"/> -->
