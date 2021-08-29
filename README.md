@@ -6,8 +6,5 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
-<details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="doinby" src="https://my-github-stats-vercel-doinby.vercel.app/api?username=doinby&show_icons=true&hide_border=true"/>
-
-</details>
