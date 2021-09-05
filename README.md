@@ -1,3 +1,4 @@
+### Hi there 👋, my name is Chinh
 #### Frontend Developer | Web Designer
 
 Skills: JS / HTML / CSS
