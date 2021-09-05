@@ -5,12 +5,14 @@ Skills: JS / HTML / CSS
 
 - 🔭 I’m currently working on  The Frontend Developer Career Path 
 - 🌱 I’m currently learning Vanilla Javascript 
+- 🤔 I’m looking for help with ES6 
+- 💬 Ask me about my crypto investment 
 - 📫 How to reach me: kchinh.do@gmail.com 
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: I have a bearded dragon named Learnie 🦎 His gender is undefined 🌈 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/doinby)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/doinby)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/doinby)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/chinhkdo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/do.inby/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/doinby)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](chinhdo.co)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doinby)](https://github.com/anuraghazra/github-readme-stats)
 
