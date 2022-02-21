@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Chinh
-#### React Developer | Design enthusias
+#### React Developer | Design enthusiast
 
 Skills: ReactJs / Tailwind / Sass / MUI
 
