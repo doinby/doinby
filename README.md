@@ -5,7 +5,7 @@ Skills: JS / HTML / CSS
 
 - 🔭 I’m currently working on  The Frontend Developer Career Path 
 - 🌱 I’m currently learning Vanilla Javascript 
-- 🤔 I’m looking for help with ES6 
+- 🤔 I’m looking for help with getting an interview
 - 💬 Ask me about my crypto investment 
 - 📫 How to reach me: kchinh.do@gmail.com 
 - 😄 Pronouns: she/her 
