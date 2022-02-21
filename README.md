@@ -4,7 +4,7 @@
 Skills: ReactJs / Tailwind / Sass / MUI
 
 - 🔭 I’m currently working on  The Frontend Developer Career Path 
-- 🌱 I’m currently learning Vanilla Javascript 
+- 🌱 I’m currently learning ReactJs
 - 🤔 I’m looking for help with getting an interview
 - 💬 Ask me about my crypto investment 
 - 📫 How to reach me: chinh@doinby.co
