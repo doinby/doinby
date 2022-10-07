@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Chinh
-#### React Developer | Design enthusiast
-
-Skills: ReactJs / Tailwind / Sass / MUI
+#### 👩‍💻Experienced Front-end Developer | React | Typescript | Tailwind | Node | I’m an UI Nerd
 
 - 🔭 I’m currently working on  The Frontend Developer Career Path 
 - 🌱 I’m currently learning ReactJs
