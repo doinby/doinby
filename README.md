@@ -7,6 +7,6 @@
 <!-- - 💬 Ask me about my crypto investment  -->
 - 📫 How to reach me: chinh@doinby.co
 - ⚡ Fun fact: I have a bearded dragon named Learnie 🦎 She sleeps in weird positions
-- 💁‍♀️ Social Medias: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/doinby)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/doinby/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/doinby)
+- 💁‍♀️ Social Medias: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/doinby/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/doinby)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doinby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
