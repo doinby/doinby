@@ -9,4 +9,4 @@
 - Linkedin: [@doinby](https://www.linkedin.com/in/doinby/)
 - Twitter: [@doinby](https://twitter.com/doinby)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/doinby/github-readme-stats)
